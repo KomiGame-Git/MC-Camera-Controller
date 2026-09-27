@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "3DTemplateGame.slnx"
+    "dotnet.defaultSolution": "MC-Camera-Controller.slnx",
+    "dotnet.preferCSharpExtension": true
 }

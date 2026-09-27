@@ -75,6 +75,7 @@
   <Project Path="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj" />
   <Project Path="Unity.2D.Common.Editor.csproj" />
   <Project Path="Unity.Sysroot.Linux_x86_64.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Unity.Formats.Fbx.Editor.csproj" />
   <Project Path="Unity.AI.Navigation.Updater.csproj" />
   <Project Path="Unity.VectorGraphics.csproj" />
@@ -90,7 +91,6 @@
   <Project Path="Unity.InternalAPIEditorBridgeDev.001.csproj" />
   <Project Path="Unity.ProBuilder.KdTree.csproj" />
   <Project Path="Unity.ProBuilder.AddOns.Editor.csproj" />
-  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Unity.Collections.CodeGen.csproj" />
   <Project Path="Unity.Mathematics.Editor.csproj" />
   <Project Path="Unity.2D.Tilemap.Extras.csproj" />
@@ -144,6 +144,7 @@
   <Project Path="Unity.Formats.Alembic.Runtime.Player.csproj" />
   <Project Path="Unity.2D.Animation.Runtime.Player.csproj" />
   <Project Path="Unity.InternalAPIEngineBridge.001.Player.csproj" />
+  <Project Path="Assembly-CSharp.Player.csproj" />
   <Project Path="Unity.VectorGraphics.Player.csproj" />
   <Project Path="Assembly-CSharp-firstpass.Player.csproj" />
   <Project Path="Unity.ProBuilder.Stl.Player.csproj" />
@@ -151,7 +152,6 @@
   <Project Path="Unity.2D.Common.Runtime.Player.csproj" />
   <Project Path="Unity.Recorder.Player.csproj" />
   <Project Path="Unity.ProBuilder.KdTree.Player.csproj" />
-  <Project Path="Assembly-CSharp.Player.csproj" />
   <Project Path="Unity.2D.Tilemap.Extras.Player.csproj" />
   <Project Path="UniTask.TextMeshPro.Player.csproj" />
   <Project Path="Unity.InternalAPIEngineBridge.003.Player.csproj" />

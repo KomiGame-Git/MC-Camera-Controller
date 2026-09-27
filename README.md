@@ -1,4 +1,4 @@
-# 3DTemplate
+# MC-Camera-Controller
 
 このリポジトリは Unity プロジェクトです。
 
