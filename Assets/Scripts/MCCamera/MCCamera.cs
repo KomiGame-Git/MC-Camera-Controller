@@ -136,8 +136,9 @@ public class MCCamera : MonoBehaviour
 
             // rotateXAnchorとrotateYAnchorの回転をリセットする
             // Cameraの回転をリセットする
-            mainCamera.localRotation = Quaternion.LookRotation(rotateXAnchor.forward);
-            mainCamera.localRotation = Quaternion.LookRotation(rotateYAnchor.forward);
+            rotateXAnchor.localRotation = Quaternion.LookRotation(followTarget.forward);
+            rotateYAnchor.localRotation = Quaternion.LookRotation(followTarget.forward);
+            mainCamera.localRotation = Quaternion.identity;
         }
         else if(cameraMode == CameraMode.ThirdPersonBack)
         {
